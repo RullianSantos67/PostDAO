@@ -1,0 +1,1 @@
+'model.dao.MySQLUserDAO' is not public in 'model.dao'. Cannot be accessed from outside package
